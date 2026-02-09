@@ -1,0 +1,247 @@
+{
+  "document_title": "ACS7xx Demo Board",
+  "bom_type": "engineering",
+  "total_items": 21,
+  "items": [
+    {
+      "item_number": "1",
+      "quantity": "2",
+      "substitution_code": "6",
+      "manufacturer": "Panasonic",
+      "part_number": "ECJ-HVB1C106M",
+      "description": "capacitor, monolithic, 1206, X5R, 10uF, 16 V",
+      "reference_designator": "C1, C2",
+      "package": null
+    },
+    {
+      "item_number": "2",
+      "quantity": "1",
+      "substitution_code": "6",
+      "manufacturer": "Panasonic",
+      "part_number": "ECJ-1VB1C104K",
+      "description": "capacitor, monolithic, 0603, X5R, 0.1uF, 16V",
+      "reference_designator": "C3",
+      "package": null
+    },
+    {
+      "item_number": "3",
+      "quantity": "Do Not Install",
+      "substitution_code": null,
+      "manufacturer": null,
+      "part_number": null,
+      "description": "C4, C5",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "4",
+      "quantity": "1",
+      "substitution_code": "6",
+      "manufacturer": "Panasonic",
+      "part_number": "ERJ-3GEY0R00V",
+      "description": "resistor, metal film, 0603, 5%, zero ohm",
+      "reference_designator": "R1",
+      "package": null
+    },
+    {
+      "item_number": "5",
+      "quantity": "1",
+      "substitution_code": "6",
+      "manufacturer": "Murata",
+      "part_number": "BLM18BB471SN1D",
+      "description": "inductor, 0603",
+      "reference_designator": "L1",
+      "package": null
+    },
+    {
+      "item_number": "6",
+      "quantity": "1",
+      "substitution_code": "10",
+      "manufacturer": "National Semi",
+      "part_number": "LP2980AIM5-5.0",
+      "description": "IC, voltage regulator, 5V, SOT-23-5",
+      "reference_designator": "U2",
+      "package": null
+    },
+    {
+      "item_number": "7",
+      "quantity": "4",
+      "substitution_code": "10",
+      "manufacturer": "Johnson Components",
+      "part_number": "111-2223-001",
+      "description": "connector, banana plug",
+      "reference_designator": "IP+, IP-, IPGND, IPGND",
+      "package": null
+    },
+    {
+      "item_number": "8",
+      "quantity": "5",
+      "substitution_code": "10",
+      "manufacturer": "Keystone Electronics",
+      "part_number": "5005",
+      "description": "testpoint, 0.063 inch diameter, red",
+      "reference_designator": "TP1 through TP5",
+      "package": null
+    },
+    {
+      "item_number": "9",
+      "quantity": "4",
+      "substitution_code": null,
+      "manufacturer": null,
+      "part_number": null,
+      "description": "screw, zinc metal plated, 4-40, 0.5 inch, Philips",
+      "reference_designator": "see construction notes",
+      "package": null
+    },
+    {
+      "item_number": "10",
+      "quantity": "4",
+      "substitution_code": "6",
+      "manufacturer": "Keystone Electronics",
+      "part_number": "1450C",
+      "description": "standoff, male/male, zinc metal plated, 4-40, 0.5 inch long, hex shaped",
+      "reference_designator": "see construction notes",
+      "package": null
+    },
+    {
+      "item_number": "11",
+      "quantity": "1",
+      "substitution_code": "10",
+      "manufacturer": "Molex",
+      "part_number": "22-11-2062",
+      "description": "connector, friction lock header, 6 pin",
+      "reference_designator": "J1",
+      "package": null
+    },
+    {
+      "item_number": "12",
+      "quantity": "1",
+      "substitution_code": null,
+      "manufacturer": null,
+      "part_number": null,
+      "description": "buss wire, tinned, 22 or 24 gauge",
+      "reference_designator": "RJ",
+      "package": "0.5 inch long. See construction notes"
+    },
+    {
+      "item_number": "13",
+      "quantity": "1",
+      "substitution_code": "10",
+      "manufacturer": null,
+      "part_number": null,
+      "description": "PCB, as from gerber files marked \"85-0322\"",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "14",
+      "quantity": "1",
+      "substitution_code": "10",
+      "manufacturer": null,
+      "part_number": null,
+      "description": "Allegro Current Sensor",
+      "reference_designator": "U1",
+      "package": "SOIC8, as provided by Allegro"
+    },
+    {
+      "item_number": "11",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "85-0322-001",
+      "description": "board",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "21",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "ACS712ELC-05B-T",
+      "description": "IC, SOIC8, current sensor",
+      "reference_designator": "U1",
+      "package": null
+    },
+    {
+      "item_number": "11",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "85-0322-001",
+      "description": "board",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "21",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "ACS712ELC-20A-T",
+      "description": "IC, SOIC8, current sensor",
+      "reference_designator": "U1",
+      "package": null
+    },
+    {
+      "item_number": "11",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "85-0322-001",
+      "description": "board",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "21",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "ACS712ELC-30A-T",
+      "description": "IC, SOIC8, current sensor",
+      "reference_designator": "U1",
+      "package": null
+    },
+    {
+      "item_number": "11",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "85-0322-001",
+      "description": "board",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "21",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "ACS713ELC-20A-T",
+      "description": "IC, SOIC8, current sensor",
+      "reference_designator": "U1",
+      "package": null
+    },
+    {
+      "item_number": "11",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "85-0322-001",
+      "description": "board",
+      "reference_designator": null,
+      "package": null
+    },
+    {
+      "item_number": "21",
+      "quantity": "1",
+      "substitution_code": "0",
+      "manufacturer": "Allegro",
+      "part_number": "ACS713ELC-30A-T",
+      "description": "IC, SOIC8, current sensor",
+      "reference_designator": "U1",
+      "package": null
+    }
+  ]
+}

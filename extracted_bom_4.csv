@@ -1,0 +1,27 @@
+category,where,item,quantity,unit_price,total
+STRUCTURE,Fablab Stock,Medium Density Wood - 60x40x3mm,2,6.5,13
+STRUCTURE,Extra Rods from MTM,Aluminium Rods,2,2.06,4.12
+STRUCTURE,Fablab Stock,screw & complements,1,3,3
+ELECTRONICS,Inventory,Capacitor 0.1 uF,4,0.27,1.08
+ELECTRONICS,Inventory,Capacitor 1 µF,2,0.27,0.54
+ELECTRONICS,Inventory,Capacitor 10 uF,4,0.34,1.36
+ELECTRONICS,Inventory,Capacitor 22 µF,2,0.3,0.6
+ELECTRONICS,Inventory,Atmega 168,2,4.63,9.26
+ELECTRONICS,Inventory,Resistor 10k,2,0.11,0.22
+ELECTRONICS,Inventory,Resistor 499ohms,2,0.11,0.22
+ELECTRONICS,Inventory,Resistor 0ohms (jumper),3,0.22,0.66
+ELECTRONICS,Inventory,H-Bridge (A4953),2,1.68,3.36
+ELECTRONICS,Inventory,Regulator 1A - ZLDO1117,1,0.3,0.3
+ELECTRONICS,Inventory,Resonator 8MHz,2,0.21,0.42
+ELECTRONICS,Inventory,Red Led,2,0.43,0.86
+ELECTRONICS,Inventory,FTDI Male Header,2,0.9,1.8
+ELECTRONICS,Inventory,2x2 SMD Pin,4,0.2,0.8
+ELECTRONICS,Inventory,1x06 Longpad,2,0.6,1.2
+ELECTRONICS,Inventory,1x04 Longpads,4,0.45,1.8
+ELECTRONICS,Inventory,Ultrasonic Sensor -,2,7.74,15.48
+ELECTRONICS,Inventory,Nema 14 - Stepper Motor,1,8.28,8.28
+ELECTRONICS,Inventory,12 Volts Voltage Supply,1,11.19,11.19
+ELECTRONICS,Inventory,Ribbon Cable,1,0.27,0.27
+ELECTRONICS,Inventory,Headers Conncetion,2,0.41,0.82
+OTHER,Fablab Stock,PLA Roll,1,9.35,9.35
+OTHER,Inventory,Belt,,3.39,0

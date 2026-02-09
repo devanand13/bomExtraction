@@ -1,0 +1,215 @@
+{
+  "document_title": "BOM - BILL OF MATERIALS",
+  "bom_type": "simple",
+  "total_items": 20,
+  "items": [
+    {
+      "category": "STRUCTURE",
+      "where": "Fablab Stock",
+      "item": "Medium Density Wood - 60x40x3mm",
+      "quantity": "2",
+      "unit_price": "6.5",
+      "total": "13"
+    },
+    {
+      "category": "STRUCTURE",
+      "where": "Extra Rods from MTM",
+      "item": "Aluminium Rods",
+      "quantity": "2",
+      "unit_price": "2.06",
+      "total": "4.12"
+    },
+    {
+      "category": "STRUCTURE",
+      "where": "Fablab Stock",
+      "item": "screw & complements",
+      "quantity": "1",
+      "unit_price": "3",
+      "total": "3"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Capacitor 0.1 uF",
+      "quantity": "4",
+      "unit_price": "0.27",
+      "total": "1.08"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Capacitor 1 \u00b5F",
+      "quantity": "2",
+      "unit_price": "0.27",
+      "total": "0.54"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Capacitor 10 uF",
+      "quantity": "4",
+      "unit_price": "0.34",
+      "total": "1.36"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Capacitor 22 \u00b5F",
+      "quantity": "2",
+      "unit_price": "0.3",
+      "total": "0.6"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Atmega 168",
+      "quantity": "2",
+      "unit_price": "4.63",
+      "total": "9.26"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Resistor 10k",
+      "quantity": "2",
+      "unit_price": "0.11",
+      "total": "0.22"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Resistor 499ohms",
+      "quantity": "2",
+      "unit_price": "0.11",
+      "total": "0.22"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Resistor 0ohms (jumper)",
+      "quantity": "3",
+      "unit_price": "0.22",
+      "total": "0.66"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "H-Bridge (A4953)",
+      "quantity": "2",
+      "unit_price": "1.68",
+      "total": "3.36"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Regulator 1A - ZLDO1117",
+      "quantity": "1",
+      "unit_price": "0.3",
+      "total": "0.3"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Resonator 8MHz",
+      "quantity": "2",
+      "unit_price": "0.21",
+      "total": "0.42"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Red Led",
+      "quantity": "2",
+      "unit_price": "0.43",
+      "total": "0.86"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "FTDI Male Header",
+      "quantity": "2",
+      "unit_price": "0.9",
+      "total": "1.8"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "2x2 SMD Pin",
+      "quantity": "4",
+      "unit_price": "0.2",
+      "total": "0.8"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "1x06 Longpad",
+      "quantity": "2",
+      "unit_price": "0.6",
+      "total": "1.2"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "1x04 Longpads",
+      "quantity": "4",
+      "unit_price": "0.45",
+      "total": "1.8"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Ultrasonic Sensor -",
+      "quantity": "2",
+      "unit_price": "7.74",
+      "total": "15.48"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Nema 14 - Stepper Motor",
+      "quantity": "1",
+      "unit_price": "8.28",
+      "total": "8.28"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "12 Volts Voltage Supply",
+      "quantity": "1",
+      "unit_price": "11.19",
+      "total": "11.19"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Ribbon Cable",
+      "quantity": "1",
+      "unit_price": "0.27",
+      "total": "0.27"
+    },
+    {
+      "category": "ELECTRONICS",
+      "where": "Inventory",
+      "item": "Headers Conncetion",
+      "quantity": "2",
+      "unit_price": "0.41",
+      "total": "0.82"
+    },
+    {
+      "category": "OTHER",
+      "where": "Fablab Stock",
+      "item": "PLA Roll",
+      "quantity": "1",
+      "unit_price": "9.35",
+      "total": "9.35"
+    },
+    {
+      "category": "OTHER",
+      "where": "Inventory",
+      "item": "Belt",
+      "quantity": null,
+      "unit_price": "3.39",
+      "total": "0"
+    }
+  ]
+}
